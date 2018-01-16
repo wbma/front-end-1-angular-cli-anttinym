@@ -1,4 +1,4 @@
-#Antti Nyman === 1606238
+Antti Nyman === 1606238
 
 # Exercise 1: Setup your toolchain and a new Angular 2 project
 
